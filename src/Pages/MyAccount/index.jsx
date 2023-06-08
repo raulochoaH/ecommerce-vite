@@ -5,7 +5,7 @@ function MyAccount() {
 
     return (
         <Layout>
-            Home
+            This section is in process!! :D
         </Layout>
     )
 }

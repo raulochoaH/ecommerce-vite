@@ -90,7 +90,7 @@ const Navbar = () => {
 						My Account
 					</NavLink>
 				</li>
-				<li>
+				{/* <li>
 					<NavLink
 						to='/electronics'
 						className={({ isActive }) =>
@@ -98,7 +98,7 @@ const Navbar = () => {
 						}>
 						Sign In
 					</NavLink>
-				</li>
+				</li> */}
 				<li>
 					🛒 {context.cartProducts.length}
 				</li>
